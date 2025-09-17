@@ -18,6 +18,8 @@ Feel free to use the design to print the stickers yourself!
 ## I have these stickers, what do I do?
 If someone asks you "where did you get that?" give them a handful of stickers to do the same!
 
+You can also make a pull request to add yourself to the table below!
+
 ## What's the background of this?
 "Ask me where I got this" was born in the hallway track at PyConUS in 2025, from a conversation around an attendee asking "where did you get that badge ribbon?".
 
@@ -39,3 +41,9 @@ src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="CC-NC" heig
 src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="CC-SA" height="20" margin-left="2"/>
 <br>
 <a href="askmewhereigotthis.com">Ask Me Where I Got This - Sticker</a> © 2025 by <a href="https://github.com/ekohilas">Evan Kohilas</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+
+## Who has these stickers?
+
+| Username | Event Received | Date Received | Currently Holding |
+|----------|----------------|--------------:|------------------:|
+| @ekohilas | PyCon Australia | 2025-09-12 | 63 |
