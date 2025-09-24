@@ -1,11 +1,11 @@
 name: true
 title: false
 author: Evan Kohilas
-logo: ask_me_where_i_got_this.png
-favicon: ask_me_where_i_got_this.svg
+logo: ask_me_where_i_got_this_sticker.png
+favicon: ask_me_where_i_got_this_sticker.svg
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-a-default-image
 defaults:
   - scope:
       path: ""
     values:
-      image: ask_me_where_i_got_this.png
+      image: ask_me_where_i_got_this_sticker.png
