@@ -46,7 +46,7 @@ I am not a professional graphic designer by any means, and am open to help with 
 [https://github.com/ekohilas/ask-me-where-i-got-this](https://github.com/ekohilas/ask-me-where-i-got-this)
 
 ## How do I get in touch?
-You can send an email to `sticker (at) askmewhereigotthis.com`, or open an issue in the [repository](https://github.com/ekohilas/ask-me-where-i-got-this)
+You can send an email to `sticker (at) askmewhereigotthis.com`, or open an issue on [GitHub](https://github.com/ekohilas/ask-me-where-i-got-this/issues)
 
 ## What's next?
 - Designing and printing badge ribbons
